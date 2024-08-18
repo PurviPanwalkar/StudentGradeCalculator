@@ -1,4 +1,5 @@
-Introduction
+Introduction:
+
 The Student Grade Calculator is a simple web application that allows users to calculate the final grade of a student based on the scores entered for different subjects. This project is built using HTML, CSS, and JavaScript to demonstrate basic web development skills.
 
 Features
